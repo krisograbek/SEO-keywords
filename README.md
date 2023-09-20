@@ -14,7 +14,7 @@ This application provides SEO keyword suggestions based on a target keyword usin
 
 1. **Clone the Repository**
    ```bash
-   git clone [your_repository_link] flask_react_openai
+   git clone https://github.com/krisograbek/SEO-keywords.git flask_react_openai
    cd flask_react_openai
    ```
 
@@ -60,7 +60,7 @@ Once both the backend and frontend servers are running, navigate to `http://loca
 
 ## Initial prompt
 
-I want to create a Full-stack application using Flask and React from scratch.
+```I want to create a Full-stack application using Flask and React from scratch.
 
 Also, the application must use OpenAI API.
 
@@ -79,14 +79,18 @@ In code also provide a good prompt to get keywords from an OpenAI model.
 Give me a step-by-step guide on how to do it, including bash commands and code snippets.
 
 I'm using Ubuntu 20.04
+```
 
 ### Improvements
-
+```
 Let's make the following improvements:
 
 1. Let's make the design more modern. But do not install any packages.
 2. I want to submit on enter, without necessary clicking on the button
+```
 
 ### Generate a Readme file
 
+```
 Let's generate a README.md file for the project. Include all steps required to run the project locally.
+```
