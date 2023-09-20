@@ -60,7 +60,8 @@ Once both the backend and frontend servers are running, navigate to `http://loca
 
 ## Initial prompt
 
-```I want to create a Full-stack application using Flask and React from scratch.
+```
+I want to create a Full-stack application using Flask and React from scratch.
 
 Also, the application must use OpenAI API.
 
